@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there. I'm Dean. 👋
+
+- 📫 How to reach me: deanbiscocho@gmail.com
+
+
 
 <!--
 **deanbiscocho/deanbiscocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
