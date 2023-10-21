@@ -1,6 +1,7 @@
 ### Hi there. I'm Dean. 👋
 
 - 📫 How to reach me: deanbiscocho@gmail.com
+- 🔭 Check out my latest writing on Medium.com: https://medium.com/@deanbiscocho
 
 
 
